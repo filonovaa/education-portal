@@ -1,0 +1,6 @@
+[submodule "education-portal-rails"]
+	path = education-portal-rails
+	url = https://github.com/filonovaa/education-portal-rails.git
+[submodule "education-portal-client"]
+	path = education-portal-client
+	url = https://github.com/filonovaa/education-portal-client.git
